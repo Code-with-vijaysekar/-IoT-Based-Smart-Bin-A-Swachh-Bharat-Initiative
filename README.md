@@ -32,7 +32,7 @@ The IoT-Based Smart Bin project is designed to enhance waste management by imple
 Interact with the smart bin through the connected mobile or web application to monitor waste levels and receive notifications.
 
 ## Screenshots/Demos
-![Smart Bin System]! [IoT Overview](https://github.com/user-attachments/assets/fafe866a-6c73-4eb3-9e00-3de4ae58a38d)
+![Smart Bin System]![IoT Overview](https://github.com/user-attachments/assets/fafe866a-6c73-4eb3-9e00-3de4ae58a38d)
 
 
 ## Future Work and Improvements
