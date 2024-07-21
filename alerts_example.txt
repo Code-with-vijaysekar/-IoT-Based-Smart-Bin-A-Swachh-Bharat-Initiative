@@ -1,0 +1,1 @@
+Alert: Bin ID 1 has reached 80% capacity. Collection scheduled for 2024-07-20 10:00 AM.
