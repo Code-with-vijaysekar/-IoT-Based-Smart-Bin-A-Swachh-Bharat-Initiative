@@ -1,4 +1,3 @@
-# -IoT-Based-Smart-Bin-A-Swachh-Bharat-Initiative
 # IoT-Based Smart Bin - A Swachh Bharat Initiative
 
 ## Project Overview
